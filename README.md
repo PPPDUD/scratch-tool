@@ -14,7 +14,7 @@ Here's some things that they could have done instead:
 
 The assumption when using Internet communication systems is that all parties involved should be able to call someone out and move on if they're offended. If you don't feel that you have the tools to do so, you should make that exceedingly clear _before_ communications happen.
 
-I do not wish to develop software which will almost exclusively be used to support organizations that encourage such absurd behavior. (If you want to look at an archived version of the offending post, [click here](https://web.archive.org/web/20250000000000*/https://github.com/open-webui/open-webui/discussions/19782).)
+I do not wish to develop software which will almost exclusively be used to support organizations that encourage such absurd behavior. (If you want to look at an archived version of the offending post, [click here](https://web.archive.org/web/20250000000000*/https://github.com/open-webui/open-webui/discussions/19782) or [here])(https://archive.ph/zX8Kz).)
 
 ### Screenshots
 <img width="1468" height="277" alt="image" src="https://github.com/user-attachments/assets/6a6f906a-1a59-4b25-97f9-7773733897c0" />
